@@ -1,0 +1,165 @@
+.AJXCSSMenueDFaTFD {
+	width: 180px; position: relative; z-index: 100;
+}
+.AJXCSSMenueDFaTFD ul {
+	background: url("ajxmenu_files/menu-bg.gif") center rgb(14, 24, 38); margin: 0px; padding: 0px; float: left; list-style-type: none; position: relative;
+}
+.AJXCSSMenueDFaTFD li {
+	margin: 0px; padding: 0px 0px 1px; width: 180px; float: left;
+}
+.AJXCSSMenueDFaTFD li.tlast {
+	padding-bottom: 0px;
+}
+.AJXCSSMenueDFaTFD li:hover {
+	position: relative;
+}
+.AJXCSSMenueDFaTFD .ajxover {
+	position: relative;
+}
+.AJXCSSMenueDFaTFD a {
+	background: rgb(14, 24, 38); font: 12px/12px Arial, Helvetica, sans-serif; padding: 0px 0px 0px 14px; width: 166px; text-align: right; color: rgb(255, 255, 255); overflow: hidden; text-decoration: none; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.AJXCSSMenueDFaTFD a b {
+	padding: 6px 14px 7px 0px; font-weight: normal; display: block;
+}
+.AJXCSSMenueDFaTFD li:hover a {
+	background: url("ajxmenu_files/top-mo.gif") no-repeat left rgb(26, 44, 68); color: rgb(255, 255, 0);
+}
+.AJXCSSMenueDFaTFD .ajxover a {
+	background: url("ajxmenu_files/top-mo.gif") no-repeat left rgb(26, 44, 68); color: rgb(255, 255, 0);
+}
+.AJXCSSMenueDFaTFD li:hover a b {
+	background: url("ajxmenu_files/top-mo.gif") no-repeat right;
+}
+.AJXCSSMenueDFaTFD .ajxover a b {
+	background: url("ajxmenu_files/top-mo.gif") no-repeat right;
+}
+.AJXCSSMenueDFaTFD a.ajxsub {
+	background: url("ajxmenu_files/top-sub.gif") no-repeat left rgb(14, 24, 38);
+}
+.AJXCSSMenueDFaTFD a.ajxsub b {
+	background: url("ajxmenu_files/top-sub.gif") no-repeat right;
+}
+.AJXCSSMenueDFaTFD li:hover a.ajxsub {
+	background: url("ajxmenu_files/top-sub-mo.gif") no-repeat left rgb(26, 44, 68); position: relative; z-index: 101;
+}
+.AJXCSSMenueDFaTFD .ajxover a.ajxsub {
+	background: url("ajxmenu_files/top-sub-mo.gif") no-repeat left rgb(26, 44, 68); position: relative; z-index: 101;
+}
+.AJXCSSMenueDFaTFD li:hover a.ajxsub b {
+	background: url("ajxmenu_files/top-sub-mo.gif") no-repeat right;
+}
+.AJXCSSMenueDFaTFD .ajxover a.ajxsub b {
+	background: url("ajxmenu_files/top-sub-mo.gif") no-repeat right;
+}
+.AJXCSSMenueDFaTFD ul ul {
+	background: url("ajxmenu_files/menu-bg.gif") center rgb(14, 24, 38); margin: 0px; left: -9999px; top: -9999px; width: 156px; height: auto; float: none; display: inline-block; position: absolute;
+}
+.AJXCSSMenueDFaTFD ul :hover ul {
+	left: 180px; top: -1px;
+}
+.AJXCSSMenueDFaTFD ul .ajxover ul {
+	left: 180px; top: -1px;
+}
+.AJXCSSMenueDFaTFD li li {
+	border-width: 0px 1px; border-style: solid; border-color: rgb(255, 255, 255); padding: 0px 0px 1px; width: 154px;
+}
+.AJXCSSMenueDFaTFD li li.sfirst {
+	border-top-color: rgb(255, 255, 255); border-top-width: 1px; border-top-style: solid;
+}
+.AJXCSSMenueDFaTFD li li.slast {
+	padding-bottom: 0px; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.AJXCSSMenueDFaTFD ul ul a {
+	background: rgb(14, 24, 38); font: 11px/11px Arial, Helvetica, sans-serif; margin: 0px; padding: 0px 0px 0px 14px; border: 1px solid rgb(0, 0, 0); width: 138px; text-align: left; color: rgb(255, 255, 255); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.AJXCSSMenueDFaTFD ul :hover ul a {
+	background: rgb(14, 24, 38); font: 11px/11px Arial, Helvetica, sans-serif; margin: 0px; padding: 0px 0px 0px 14px; border: 1px solid rgb(0, 0, 0); width: 138px; text-align: left; color: rgb(255, 255, 255); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.AJXCSSMenueDFaTFD ul :hover ul :hover ul a {
+	background: rgb(14, 24, 38); font: 11px/11px Arial, Helvetica, sans-serif; margin: 0px; padding: 0px 0px 0px 14px; border: 1px solid rgb(0, 0, 0); width: 138px; text-align: left; color: rgb(255, 255, 255); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.AJXCSSMenueDFaTFD ul .ajxover ul a {
+	background: rgb(14, 24, 38); font: 11px/11px Arial, Helvetica, sans-serif; margin: 0px; padding: 0px 0px 0px 14px; border: 1px solid rgb(0, 0, 0); width: 138px; text-align: left; color: rgb(255, 255, 255); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.AJXCSSMenueDFaTFD ul .ajxover ul .ajxover ul a {
+	background: rgb(14, 24, 38); font: 11px/11px Arial, Helvetica, sans-serif; margin: 0px; padding: 0px 0px 0px 14px; border: 1px solid rgb(0, 0, 0); width: 138px; text-align: left; color: rgb(255, 255, 255); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.AJXCSSMenueDFaTFD ul :hover ul a b {
+	padding: 6px 14px 6px 0px; font-weight: normal; display: block;
+}
+.AJXCSSMenueDFaTFD ul :hover ul :hover ul a b {
+	padding: 6px 14px 6px 0px; font-weight: normal; display: block;
+}
+.AJXCSSMenueDFaTFD ul .ajxover ul a b {
+	padding: 6px 14px 6px 0px; font-weight: normal; display: block;
+}
+.AJXCSSMenueDFaTFD ul .ajxover ul .ajxover ul a b {
+	padding: 6px 14px 6px 0px; font-weight: normal; display: block;
+}
+.AJXCSSMenueDFaTFD ul ul :hover a {
+	background: url("ajxmenu_files/top-mo.gif") no-repeat left rgb(26, 44, 68); color: rgb(255, 255, 0);
+}
+.AJXCSSMenueDFaTFD ul ul :hover ul :hover a {
+	background: url("ajxmenu_files/top-mo.gif") no-repeat left rgb(26, 44, 68); color: rgb(255, 255, 0);
+}
+.AJXCSSMenueDFaTFD ul ul .ajxover a {
+	background: url("ajxmenu_files/top-mo.gif") no-repeat left rgb(26, 44, 68); color: rgb(255, 255, 0);
+}
+.AJXCSSMenueDFaTFD ul ul .ajxover ul .ajxover a {
+	background: url("ajxmenu_files/top-mo.gif") no-repeat left rgb(26, 44, 68); color: rgb(255, 255, 0);
+}
+.AJXCSSMenueDFaTFD ul ul :hover a b {
+	background: url("ajxmenu_files/top-mo.gif") no-repeat right;
+}
+.AJXCSSMenueDFaTFD ul ul :hover ul :hover a b {
+	background: url("ajxmenu_files/top-mo.gif") no-repeat right;
+}
+.AJXCSSMenueDFaTFD ul ul .ajxover a b {
+	background: url("ajxmenu_files/top-mo.gif") no-repeat right;
+}
+.AJXCSSMenueDFaTFD ul ul .ajxover ul .ajxover a b {
+	background: url("ajxmenu_files/top-mo.gif") no-repeat right;
+}
+.AJXCSSMenueDFaTFD ul ul a.ajxsub {
+	background: url("ajxmenu_files/top-sub.gif") no-repeat left rgb(14, 24, 38); padding: 0px 0px 0px 14px; width: 138px; position: static;
+}
+.AJXCSSMenueDFaTFD ul :hover ul a.ajxsub {
+	background: url("ajxmenu_files/top-sub.gif") no-repeat left rgb(14, 24, 38); padding: 0px 0px 0px 14px; width: 138px; position: static;
+}
+.AJXCSSMenueDFaTFD ul .ajxover ul a.ajxsub {
+	background: url("ajxmenu_files/top-sub.gif") no-repeat left rgb(14, 24, 38); padding: 0px 0px 0px 14px; width: 138px; position: static;
+}
+.AJXCSSMenueDFaTFD ul :hover ul a.ajxsub b {
+	background: url("ajxmenu_files/top-sub.gif") no-repeat right; padding: 6px 14px 6px 0px;
+}
+.AJXCSSMenueDFaTFD ul .ajxover ul a.ajxsub b {
+	background: url("ajxmenu_files/top-sub.gif") no-repeat right; padding: 6px 14px 6px 0px;
+}
+.AJXCSSMenueDFaTFD ul ul :hover a.ajxsub {
+	background: url("ajxmenu_files/top-sub-mo.gif") no-repeat left rgb(26, 44, 68);
+}
+.AJXCSSMenueDFaTFD ul ul .ajxover a.ajxsub {
+	background: url("ajxmenu_files/top-sub-mo.gif") no-repeat left rgb(26, 44, 68);
+}
+.AJXCSSMenueDFaTFD ul ul :hover a.ajxsub b {
+	background: url("ajxmenu_files/top-sub-mo.gif") no-repeat right;
+}
+.AJXCSSMenueDFaTFD ul ul .ajxover a.ajxsub b {
+	background: url("ajxmenu_files/top-sub-mo.gif") no-repeat right;
+}
+.AJXCSSMenueDFaTFD ul :hover ul ul {
+	left: -9999px; top: -9999px; position: absolute;
+}
+.AJXCSSMenueDFaTFD ul .ajxover ul ul {
+	left: -9999px; top: -9999px; position: absolute;
+}
+.AJXCSSMenueDFaTFD ul :hover ul :hover ul {
+	left: 154px; top: -1px;
+}
+.AJXCSSMenueDFaTFD ul .ajxover ul .ajxover ul {
+	left: 154px; top: -1px;
+}
+.AJXCSSMenueDFaTFD br {
+	height: 0px; line-height: 0px; clear: both; font-size: 1px;
+}

@@ -1,0 +1,102 @@
+.AJXLightboxcCTSfEC ul {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+.AJXLightboxcCTSfEC li {
+	float: left; display: block;
+}
+.AJXLightboxcCTSfEC div {
+	margin: 4px; border: 1px solid rgb(224, 224, 224); width: 105px; height: 105px; overflow: hidden; position: relative;
+}
+.AJXLightboxcCTSfEC li {
+	margin: 4px; border: 1px solid rgb(224, 224, 224); width: 105px; height: 105px; overflow: hidden; position: relative;
+}
+html > body .AJXLightboxcCTSfEC div {
+	text-align: center; display: table;
+}
+html > body .AJXLightboxcCTSfEC li {
+	text-align: center; display: table;
+}
+.AJXLightboxcCTSfEC .ajxover {
+	border-color: rgb(160, 160, 160);
+}
+.AJXLightboxcCTSfEC a {
+	left: -71px; top: 51px; position: absolute;
+}
+html > body .AJXLightboxcCTSfEC a {
+	vertical-align: middle; display: table-cell; position: static;
+}
+.AJXLightboxcCTSfEC img {
+	border: 0px currentColor; left: -50%; top: -50%; position: relative;
+}
+html > body .AJXLightboxcCTSfEC img {
+	position: static;
+}
+.AJXLightboxcCTSfEC br {
+	height: 0px; line-height: 0px; clear: both; font-size: 1px;
+}
+#AJXLightboxcCTSfEC_overlay {
+	background: rgb(0, 0, 0); left: 0px; top: 0px; width: 100%; height: 100%; display: none; position: fixed; z-index: 2000;
+}
+#AJXLightboxcCTSfEC {
+	text-align: left; display: none; position: absolute; z-index: 2000;
+}
+#AJXLightboxcCTSfEC_outer {
+	width: 100%; height: 100%; position: absolute; background-color: rgb(255, 255, 255);
+}
+#AJXLightboxcCTSfEC_inner {
+	width: 100%; position: absolute;
+}
+#AJXLightboxcCTSfEC_img {
+	width: 100%; height: 100%; position: absolute;
+}
+#AJXLightboxcCTSfEC_cross_img {
+	width: 100%; height: 100%; position: absolute;
+}
+#AJXLightboxcCTSfEC_cap {
+	width: 100%; height: 24px; bottom: 0px; overflow: hidden; display: none; position: absolute;
+}
+#AJXLightboxcCTSfEC_cap div {
+	width: 100%; height: 100%; position: absolute; background-color: rgb(0, 0, 0);
+}
+#AJXLightboxcCTSfEC_cap p {
+	font: bold 14px/normal Verdana, Arial, Helvetica, sans-serif; margin: 0px; padding: 0px 8px; top: 3px; color: rgb(255, 255, 255); text-decoration: none; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+#AJXLightboxcCTSfEC_outline {
+	left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;
+}
+#AJXLightboxcCTSfEC_outline_n {
+	background: url("ajxlightbox2_files/outline.html"); left: 0px; top: -18px; width: 100%; height: 18px; position: absolute;
+}
+#AJXLightboxcCTSfEC_outline_s {
+	background: url("ajxlightbox2_files/outline.html") 0px -18px; left: 0px; width: 100%; height: 18px; bottom: -18px; position: absolute;
+}
+#AJXLightboxcCTSfEC_outline_sw {
+	background: url("ajxlightbox2_files/outline.html") 0px -36px; left: -18px; width: 18px; height: 18px; bottom: -18px; position: absolute;
+}
+#AJXLightboxcCTSfEC_outline_se {
+	background: url("ajxlightbox2_files/outline.html") -18px -36px; width: 18px; height: 18px; right: -18px; bottom: -18px; position: absolute;
+}
+#AJXLightboxcCTSfEC_outline_w {
+	background: url("ajxlightbox2_files/outline.html") 0px -54px; left: -18px; top: -18px; width: 18px; height: 100%; padding-top: 18px; position: absolute;
+}
+#AJXLightboxcCTSfEC_outline_e {
+	background: url("ajxlightbox2_files/outline.html") -18px -54px; top: -18px; width: 18px; height: 100%; right: -18px; padding-top: 18px; position: absolute;
+}
+#AJXLightboxcCTSfEC_prev {
+	left: 0px; width: 30%; height: 100%; display: none; position: absolute; cursor: pointer; background-image: url("data:image/gif;base64,AAAA");
+}
+#AJXLightboxcCTSfEC_prev_button {
+	background: url("ajxlightbox2_files/previous.html"); left: 0px; top: 50%; width: 35px; height: 30px; margin-top: -15px; display: none; position: absolute;
+}
+#AJXLightboxcCTSfEC_next {
+	width: 30%; height: 100%; right: 0px; display: none; position: absolute; cursor: pointer; background-image: url("data:image/gif;base64,AAAA");
+}
+#AJXLightboxcCTSfEC_next_button {
+	background: url("ajxlightbox2_files/next.html"); top: 50%; width: 35px; height: 30px; right: 0px; margin-top: -15px; display: none; position: absolute;
+}
+#AJXLightboxcCTSfEC_loading {
+	background: url("ajxlightbox2_files/loading.html") no-repeat center; width: 100%; height: 100%; position: absolute;
+}
+#AJXLightboxcCTSfEC_close {
+	background: url("ajxlightbox2_files/close.html"); top: -10px; width: 30px; height: 30px; right: -10px; display: none; position: absolute; cursor: pointer;
+}
